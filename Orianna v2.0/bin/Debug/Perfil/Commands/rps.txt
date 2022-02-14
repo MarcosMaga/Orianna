@@ -1,0 +1,12 @@
+abrindo <name> <link>https://www.facebook.com/</link> <link>https://web.whatsapp.com/</link>
+abrindo <link>https://www.youtube.com/</link>
+abrindo <link>https://www.google.com.br/</link>
+abrindo <link>https://www.netflix.com/browse</link>
+abrindo <link>https://www.primevideo.com/</link>
+abrindo <name> <link>https://moodle.cmp.ifsp.edu.br/my/</link>
+abrindoo email <link>https://mail.google.com/</link>
+executando <cmd>cd <copy>; python <copyfile>; cls</cmd>
+compilando <cmd>cd <copy>; gcc <copyfile></cmd>
+abrindo emulador <name> <cmd>cd c:\program files (x86)\pcsx2; start pcsx2.exe</cmd>
+apagando as luzes <name> <com>1</com>
+muito bem <copy>
